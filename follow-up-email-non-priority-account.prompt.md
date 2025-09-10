@@ -3,6 +3,7 @@
 **INSTRUCTION**
 - Use the following email template to create a follow-up email after a technical session with a customer. Fill in the placeholders with relevant information from the session. Ensure the tone is professional yet approachable, and the content is clear and concise.
 - use hyperlinks instead of list the urls and following the url to get the content title as the name of the link.
+- If there is are multiple meetings, summarize the overall outcomes and action items in a single email. and do not include action items that have already been completed.
 
 [EMAIL START]
 
@@ -19,13 +20,13 @@ Dear [Participant Names],
 
 **Action Items**
 ⏲️ Time-Sensitive Actions:
-- [Action description] | Owner: [Microsoft/Customer] | Due: [Date]
+- [Action description] | Owner: [Microsoft/Customer] | Due: [Near Term, Long Term]
 
 👷 Implementation Tasks:
-- [Task description] | Owner: [Microsoft/Customer] | Due: [Date]
+- [Task description] | Owner: [Microsoft/Customer] | Due: [Near Term, Long Term]
 
 🧠 Research/Review Items:
-- [Item description] | Owner: [Microsoft/Customer] | Due: [Date]
+- [Item description] | Owner: [Microsoft/Customer] | Due: [Near Term, Long Term]
 
 **Supporting Materials**
 • [Screenshot/Diagram 1]: [Brief description]
@@ -37,9 +38,9 @@ Dear [Participant Names],
 • [Design recommendations]
 • [Solution artifacts]
 
-**Next Steps**
-1. Engagement Type: [Solution Envisioning, Architecture Design Session, Rapid Prototype]
-2. Suggested Timeline: [Start Date - End Date] (Disclaimer: add a statement in bold that the Innovation Hub s currently booking 4 to 6 weeks out and to plan accordingly)
+**Potential Next Steps**
+1. Engagement Type: [Solution Envisioning, Architecture Design Session, Rapid Prototype] (Partner Lead)
+2. Suggested Timeline: [Near Term, Long Term]
 3. Key Milestones: [List major milestones]
 
 Please review and confirm the action items and proposed timeline. Feel free to reach out with any questions or clarifications.
