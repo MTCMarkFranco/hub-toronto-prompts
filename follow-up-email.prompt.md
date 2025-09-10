@@ -1,4 +1,10 @@
-Follow-Up Email Template: [Session Date] - [Customer Name]
+
+
+**INSTRUCTION**
+- Use the following email template to create a follow-up email after a technical session with a customer. Fill in the placeholders with relevant information from the session. Ensure the tone is professional yet approachable, and the content is clear and concise.
+- use hyperlinks instead of list the urls and following the url to get the content title as the name of the link.
+
+[EMAIL START]
 
 Dear [Participant Names],
 
@@ -41,6 +47,8 @@ Please review and confirm the action items and proposed timeline. Feel free to r
 Best regards,
 [Architect Name]
 Microsoft Innovation Hub
+
+[EMAIL END]
 
 ** Writing Style Considerations **
 
