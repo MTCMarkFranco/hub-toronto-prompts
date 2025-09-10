@@ -33,7 +33,7 @@ Dear [Participant Names],
 
 **Next Steps**
 1. Engagement Type: [Solution Envisioning, Architecture Design Session, Rapid Prototype]
-2. Proposed Timeline: [Start Date - End Date]
+2. Suggested Timeline: [Start Date - End Date] (Disclaimer: add a statement in bold that the Innovation Hub s currently booking 4 to 6 weeks out and to plan accordingly)
 3. Key Milestones: [List major milestones]
 
 Please review and confirm the action items and proposed timeline. Feel free to reach out with any questions or clarifications.
